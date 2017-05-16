@@ -8,7 +8,7 @@ Version: 1.0.0
 */
 
 body {
-	font-family: $regular_body_font;
+// 	font-family: $regular_font;
 	font-size: $base_font;
 	@include font-smoother();
 }
